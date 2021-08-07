@@ -1,4 +1,4 @@
-from DataStructure.stack import Stack
+from DataStructures.stack import Stack
 
 print("\nLet's play Towers of Hanoi!!")
 
